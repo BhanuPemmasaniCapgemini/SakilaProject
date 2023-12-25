@@ -1,0 +1,22 @@
+
+z
+java:S2184P"FCast one of the operands of this multiplication operation to a "long".b 3389dae361af79b04c9c8e7057f60cc6h
+~
+java:S3655]"JCall "user2.isPresent()" or "!user2.isEmpty()" before accessing the value.b 7e58d63b60197ceb55a1c487989a3720h
+|
+java:S3655z"HCall "user.isPresent()" or "!user.isEmpty()" before accessing the value.b ee11cbb19052e40b07aac0ca060c23eeh
+w
+java:S2583_"CChange this condition so that it does not always evaluate to "true"b bf5a3d0fef72eea084eed71d8ca8e5cah
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813""BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813%"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+b
+java:S19052".Remove this unnecessary cast to "UserDetails".b 23113fb64ef16a51b02e4de85fb34f4dh
+o	java:S125V"<This block of commented-out lines of code should be removed.b cbb184dd8e05c9709e5dcaedaa0495cfh
+c
+java:S1874q"/Remove this use of "getById"; it is deprecated.b cb0967062105f6e5f108a11bb956dcbdh

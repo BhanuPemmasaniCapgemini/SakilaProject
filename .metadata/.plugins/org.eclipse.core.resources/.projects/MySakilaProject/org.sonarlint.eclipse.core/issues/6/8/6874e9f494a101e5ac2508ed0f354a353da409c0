@@ -1,0 +1,11 @@
+
+|
+java:S3655"HCall "user.isPresent()" or "!user.isEmpty()" before accessing the value.b ee11cbb19052e40b07aac0ca060c23eeh
+„
+java:S3655""PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.b 77b989bf369dd9d18eb6e9ca0a32e8cdh
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+^
+java:S1068"*Remove this unused "logger" private field.b 6db435f352d7ea4a67807a3feb447bf7h

@@ -1,0 +1,11 @@
+
+‹
+java:S1128	"PRemove this unused import 'org.springframework.validation.annotation.Validated'.8Î—ˆ´Ç1b a621ec5e880cc3eb76025000d4731a4eh
+e
+java:S1128"*Remove this unused import 'java.util.Map'.8Î—ˆ´Ç1b 03ec136776d19432e0a31b46ebe07d1ah
+}
+java:S6813&"BRemove this field injection and use constructor injection instead.8Î—ˆ´Ç1b 0132ec8cee01c5dd244e1a60fe6448a1h
+a
+java:S1452U"&Remove usage of generic wildcard type.8Î—ˆ´Ç1b d1457b72c3fb323a2671125aef3eab5dh
+b
+java:S19057"'Remove this unnecessary cast to "List".8Î—ˆ´Ç1b ee4f6fe053f00c752f24304d40f15e01h

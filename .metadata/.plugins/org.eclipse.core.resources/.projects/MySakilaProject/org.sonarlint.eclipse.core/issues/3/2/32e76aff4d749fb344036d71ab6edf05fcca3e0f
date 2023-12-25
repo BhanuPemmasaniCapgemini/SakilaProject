@@ -1,0 +1,9 @@
+
+v
+java:S1874"BRemove this use of "EnableGlobalMethodSecurity"; it is deprecated.b fd395e2396c92445bd8055474fe34d6ch
+|
+java:S5738&"HRemove this call to a deprecated method, it has been marked for removal.b b439a4514c277ce6fccc8f28ca817183h
+|
+java:S5738&"HRemove this call to a deprecated method, it has been marked for removal.b be5d5d37542d75f93a87094459f76678h
+]
+java:S1068")Remove this unused "point" private field.b 78ee54aa8f813885fe2fe20d232518b9h

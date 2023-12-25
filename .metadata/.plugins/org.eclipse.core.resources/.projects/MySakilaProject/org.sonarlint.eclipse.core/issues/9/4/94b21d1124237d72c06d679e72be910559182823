@@ -1,0 +1,5 @@
+
+›
+java:S1488b"`Immediately return this expression instead of assigning it to the temporary variable "newActor".8Èµ€´Ç1b ea4eb4190683d777a2f27deaf8591ca3h
+…
+java:S3655b"JCall "actor.isPresent()" or "!actor.isEmpty()" before accessing the value.8ß³„´Ç1b 8e62561c3ac6d3fb0016e9a34a2caa5dh
